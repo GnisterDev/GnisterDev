@@ -18,9 +18,6 @@
 [![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white)](https://godotengine.org/)
 [![]()]()
 
-# 📄 Recent activity
-<!--START_SECTION:activity-->
-
 # 📊 Stats
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GnisterDev&theme=blueberry&count_private=true&hide_border=true&line_height=25)
 ![Stats](https://github-readme-stats.vercel.app/api?username=GnisterDev&theme=blueberry&count_private=true&hide_border=true&line_height=25)
