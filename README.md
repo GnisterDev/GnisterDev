@@ -1,3 +1,4 @@
+&nbsp;
 <h1 align="center">Hi 👋, I'm Gnister</h1>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=GnisterDev&style=for-the-badge)
@@ -24,4 +25,7 @@ I explore new technologies, programming languages, and concepts to better my kno
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GnisterDev&theme=blueberry&count_private=true&hide_border=true&line_height=25)
 ![Stats](https://github-readme-stats.vercel.app/api?username=GnisterDev&theme=blueberry&count_private=true&hide_border=true&line_height=25)
 ![Commits](https://github-readme-streak-stats.herokuapp.com/?user=GnisterDev&theme=blueberry&count_private=true&hide_border=true&line_height=25)
+
+## <img src="./img/discord.svg" width="24px" style="position:relative;top:5px"> Discord
+
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/531795987304284162?animated=false&hideDiscrim=true&idleMessage=Probably%20programming%20something...)](https://discord.com/users/531795987304284162)
