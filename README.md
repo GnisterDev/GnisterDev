@@ -27,4 +27,4 @@ I explore new technologies, programming languages, and concepts to better my kno
 
 ## <img src="./img/discord.svg" width="24px" style="position:relative;top:5px"> Discord
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/531795987304284162?animated=false&hideDiscrim=true&idleMessage=Probably%20programming%20something...)](https://discord.com/users/531795987304284162)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/531795987304284162?showDisplayName=true&animated=true&hideDiscrim=true&idleMessage=Probably%20programming%20something...)](https://discord.com/users/531795987304284162)
